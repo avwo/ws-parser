@@ -1,0 +1,33 @@
+{
+  "name": "ws-parser",
+  "description": "WebSocket stream parser",
+  "version": "0.1.0",
+  "main": "./lib",
+  "author": "avenwu <avenwu@vip.qq.com>",
+  "contributors": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avwo/ws-parser/issues"
+  },
+  "homepage": "https://github.com/avwo/ws-parser",
+  "keywords": [
+    "whistle",
+    "websocket",
+    "ws"
+  ],
+  "registry": "http://registry.npmjs.org/ws-parser",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avwo/ws-parser.git"
+  },
+  "scripts": {
+    "lint": "eslint ./lib *.js",
+    "lintfix": "eslint --fix ./lib *.js"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "eslint": "^2.8.0"
+  }
+}
