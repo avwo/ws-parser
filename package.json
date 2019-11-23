@@ -28,7 +28,7 @@
     "node": ">= 0.10.0"
   },
   "devDependencies": {
-    "eslint": "^2.8.0"
+    "eslint": "^6.7.0"
   },
   "dependencies": {
     "async-limiter": "^2.0.0"
