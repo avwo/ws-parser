@@ -1,7 +1,7 @@
 {
   "name": "ws-parser",
   "description": "WebSocket stream parser",
-  "version": "0.5.1",
+  "version": "0.6.0",
   "main": "./lib",
   "author": "avenwu <avenwu@vip.qq.com>",
   "contributors": [],
@@ -31,6 +31,6 @@
     "eslint": "^2.8.0"
   },
   "dependencies": {
-    "async-limiter": "^2.0.0"
+    "async-limiter": "2.0.0"
   }
 }
