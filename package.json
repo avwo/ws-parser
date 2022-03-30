@@ -1,7 +1,7 @@
 {
   "name": "ws-parser",
   "description": "WebSocket stream parser",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "main": "./lib",
   "author": "avenwu <avenwu@vip.qq.com>",
   "contributors": [],
